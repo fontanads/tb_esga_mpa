@@ -3,5 +3,5 @@ Supplementary material for the paper "Threshold-Based Edge Selection MPA for SCM
 
 Contents:
 - Binary resource allocation matrices (F)
-- Multidimensional Modulations (M-ary, N-dimensional),  (X: N x M complex matrices)
+- Multidimensional Modulations (M-ary, N-dimensional),  ($\mathcal{C}$: N x M complex matrices)
 - PDFs with illustration of binary labelings of the codebooks.
