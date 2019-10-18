@@ -1,4 +1,4 @@
-# Media for the WCL paper "Threshold-Based Edge Selection MPA for SCMA"
+# Media for the TVT paper "Threshold-Based Edge Selection MPA for SCMA"
 Supplementary material for the paper "Threshold-Based Edge Selection MPA for SCMA", submitted to IEEE Trans. on Vehicular Technology.
 
 Contents:
