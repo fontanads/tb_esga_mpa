@@ -1,2 +1,7 @@
-# tb_esga_mpa
-Supplementary material for the paper submitted to IEEE Trans. on Vehicular Technology
+# Media for the WCL paper "Threshold-Based Edge Selection MPA for SCMA"
+Supplementary material for the paper "Threshold-Based Edge Selection MPA for SCMA", submitted to IEEE Trans. on Vehicular Technology.
+
+Contents:
+- Binary resource allocation matrices (F)
+- Multidimensional Modulations (M-ary, N-dimensional),  (X: N x M complex matrices)
+- PDFs with illustration of binary labelings of the codebooks.
